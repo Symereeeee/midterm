@@ -13,7 +13,13 @@
     - B: 80-89
     - C: 70-79
     - D: 60-69
-    - F: below 60 */
+    - F: below 60
+    
+    Program: Computation of grades using Function 
+    Programmer: Fritzjan Philip A. Marzan 
+    Section: BCS24 
+    Start Date: April 17 2023
+    End Date : April 20 2023*/
 
     //added a module so i can run it sa terminal 
     var prompt = require('prompt-sync')();
